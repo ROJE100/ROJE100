@@ -14,13 +14,13 @@
 - <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROJE100&theme=synthwave&layout=compact"/>
 -->
 
-<!--
+
 ## Tech Stack
 <h3 align='center'>Languages</h3>
 <p>
 <a href="https://github.com/ROJE100/StudyWpf.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 </p>
--->
+
 
 ## Using Tools
 <p align='left'>
